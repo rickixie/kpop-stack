@@ -1,6 +1,6 @@
 import type { User } from "./user.server";
 import { supabase } from "./user.server";
-
+// adding some comments here
 export type Note = {
   id: string;
   title: string;
